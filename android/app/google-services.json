@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982550109020",
+    "project_id": "ieee-firebase-53a2f",
+    "storage_bucket": "ieee-firebase-53a2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982550109020:android:05ce2422229a8ac2277f99",
+        "android_client_info": {
+          "package_name": "com.example.iee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC722kJ4y0qjuDx5l0MKCJNDhFTjQyKpGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
